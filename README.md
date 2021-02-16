@@ -2,8 +2,8 @@
 
  <img align="center" alt="Illustration" src="./leaf.svg" width="500" height="320" />
 
-former learner in specialized educator, I joined in 2020 the BeCode Training to become a web developer, especially in the
-front-end.
+ <font size="3">Former learner in specialized educator, I joined in 2020 the BeCode Training to become a web developer, especially in the
+front-end.</font> 
 
 Curious by nature and eager to learn more and more about web development, I will never stop to tend to a common purpose with the society who will trust me.
 
