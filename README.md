@@ -1,6 +1,13 @@
 ### Hello, It's me, Bastien  :bust_in_silhouette:
 
- <img align="center" alt="Illustration" src="https://github.com/macmowl/macmowl/blob/main/illu.png" width="500" height="320" />
+ <img align="center" alt="Illustration" src="./leaf.svg" width="500" height="320" />
+
+former learner in specialized educator, I joined in 2020 the BeCode Training to become a web developer, especially in the
+front-end.
+
+Curious by nature and eager to learn more and more about web development, I will never stop to tend to a common purpose with the society who will trust me.
+
+Passionnate about photography, personal growth and carring about the environment, my various hobbies could be a plus in a team (maybe yours).
 
 
 ## I'm a web dev student
@@ -28,12 +35,12 @@
 <br />
 
 ### Some of my projects
-- [My CV](https://macmowl.github.io/My-CV/)
-- [Vcard](https://macmowl.github.io/alan-vcard/)
-- [Berners-Lee](https://macmowl.github.io/website-berners-lee-sass/)
-- [London Museum website](https://macmowl.github.io/museum-project/index.html)
-- [Codepen stuff](https://codepen.io/macmowl-the-flexboxer)
-- [Forum built in PHP](https://bbs-queen.neant.be)
+- [My CV](https://bastlaf.github.io/CV-new/)
+- [Museum project](https://bastlaf.github.io/museum-project/)
+- [Codepen stuff](https://codepen.io/bastlaf)
+- [Forum built in PHP](https://github.com/bastlaf/Forum-bcbb-the-who)
+- [WordPress Project](https://github.com/bastlaf/malabas)
+- [React Pomodoro](https://github.com/bastlaf/pomodoro)
 
 <br />
 ---
